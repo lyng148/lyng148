@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **lyng148/lyng148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,10 +20,9 @@ Here are some ideas to get you started:
     <b>Welcome to my page!</b><br><br>
     <i>
         - 😄 I'm Linh.<br>
-        - 🌱 I'm first year student at HUST ( Hanoi University of Sience and Technology )
+        - 🌱 I'm first year student at HUST (Hanoi University of Sience and Technology). <br>
         - 🔭Currently learning to walk in coding.<br>
-       
-    </i><br>
+   </i><br>
     <a href="https://www.linkedin.com/in/wervlad">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
