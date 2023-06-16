@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <i>
         - 😄 I'm Linh.<br>
         - 🌱 I'm first year student at HUST (Hanoi University of Sience and Technology). <br>
-        - 🔭Currently learning to walk in coding.<br>
+        - 🔭 Currently learning to walk in coding.<br>
    </i><br>
     <a href="https://www.linkedin.com/in/wervlad">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
