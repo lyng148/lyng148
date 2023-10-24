@@ -53,4 +53,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyng148&layout=donut-vertical)](https://github.com/lyng148/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyng148&theme=tokyonight)](https://github.com/lyng148/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyng148&layout=donut&theme=tokyonight )](https://github.com/lyng148/github-readme-stats)
