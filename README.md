@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <b>Welcome to my page!</b><br><br>
     <i>
         - 😄 I'm Linh.<br>
-        - 🌱 I'm second year student at HUST (Hanoi University of Sience and Technology). <br>
+        - 🌱 I'm third year student at HUST (Hanoi University of Sience and Technology). <br>
         - 🔭 Currently learning to walk in coding.<br>
    </i><br>
     <a href="https://www.linkedin.com/in/">
