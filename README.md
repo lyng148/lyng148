@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 - 🖥️ **Languages**: **C**, **C++**, **Python**, **Java**, **JavaScript**
 - 🛠️ **Tools**: **Git**, **GitHub**, **VS Code**, **Google Colab**, **Jupyter Notebook**
 ## 🏆 My GitHub Stats
+![](https://komarev.com/ghpvc/?username=lyng148)</br>
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lyng148&show_icons=true&hide_title=true)
 ![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lyng148&layout=compact)
