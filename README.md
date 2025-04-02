@@ -27,13 +27,6 @@ Bần đạo là **Linh Tiên Sinh**, một tu sĩ nơi cõi lập trình, ngày
 
 ---
 
-## **📜 Thông Thiên Bí Cảnh - Hành Trình Tu Đạo**  
-
-💠 Bước đầu nhập môn, bần đạo tinh thông thuật toán cổ xưa, đi sâu vào **Lập Trình Hệ Thống**, **Giải Thuật**, và **Cấu Trúc Dữ Liệu**.  
-💠 Đến giai đoạn Kim Đan, bần đạo bắt đầu tìm hiểu **Phát Triển Web**, **Ứng Dụng Phân Tán** và các đại pháp **AI - Machine Learning**.  
-💠 Nay khi đã đến Nguyên Anh kỳ, bần đạo dấn thân vào **Hệ Thống Phần Mềm Quy Mô Lớn**, không ngừng tìm kiếm con đường lên **Đại Thừa**.  
-
----
 
 ## **🏆 Hành Trình Chứng Đạo - Linh Thạch Thành Tích**  
 💠 **Số lượt đạo hữu chiêm nghiệm bảo điển của bần đạo**:  
