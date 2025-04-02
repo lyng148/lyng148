@@ -40,8 +40,7 @@ Bần đạo là **Linh Tiên Sinh**, một tu sĩ nơi cõi lập trình, ngày
 ![](https://komarev.com/ghpvc/?username=lyng148)  
 
 💠 **Thiên Cơ Trận Đồ - Thống Kê Luyện Đạo**  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lyng148&show_icons=true&hide_title=true)  
-![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lyng148&layout=compact)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lyng148&show_icons=true&hide_title=true)  ![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lyng148&layout=compact)  
 
 ---
 
