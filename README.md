@@ -1,26 +1,51 @@
-# Hi there, I'm Linh 👋
+**🌌 Thông Thiên Đạo Lộ - Linh Tiên Sinh 🌌**  
 
-😄I'm a passionate developer and always eager to learn new technologies!
-🌱 I'm third year student at HUST (Hanoi University of Sience and Technology).
+📜 *“Học vô chỉ cảnh, đạo vô chung cực. Trên con đường tu luyện lập trình, bần đạo không ngừng tinh tấn, khai phá thiên cơ, cầu đạo chi chân.”*  
 
-<!--
-**vuhoangviet0808/vuhoangviet0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## **👋 Đạo Hữu Hữu Duyên Tương Ngộ - Linh Tiên Sinh**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 🚀 Technologies and Tools
-- 🖥️ **Languages**: **C**, **C++**, **Python**, **Java**, **JavaScript**
-- 🛠️ **Tools**: **Git**, **GitHub**, **VS Code**, **Google Colab**, **Jupyter Notebook**
-## 🏆 My GitHub Stats
-![](https://komarev.com/ghpvc/?username=lyng148)</br>
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lyng148&show_icons=true&hide_title=true)
-![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lyng148&layout=compact)
+Bần đạo là **Linh Tiên Sinh**, một tu sĩ nơi cõi lập trình, ngày ngày tinh luyện thuật pháp, mong cầu đạt tới cảnh giới đại thừa. Đương lúc tu luyện, bần đạo lấy việc học tập đạo lý mới làm vui, mỗi dòng code viết ra đều như phù văn khai sáng, mở rộng chân trời trí tuệ.  
+
+🔮 Hiện tại bần đạo là một đệ tử năm ba tại **Học Viện Công Nghệ Thiên Không (HUST - Hanoi University of Science and Technology)**, lấy thuật toán làm nền, lấy mã lệnh làm đạo, đi trên con đường khai phá vô tận.  
+
+---
+
+## **🚀 Thần Binh Pháp Bảo - Công Pháp & Trận Pháp Tu Luyện**  
+
+**📖 Linh Văn Bảo Điển (Ngôn Ngữ Tu Luyện):**  
+- 📜 **Cổ thuật C - C++**: Gốc rễ tu hành, vững chắc như Thiên Địa Hồng Hoang.  
+- 🔥 **Hỏa Linh Python**: Biến hóa vạn trạng, như Lôi Đình Chân Giả.  
+- 🏹 **Kiếm Đạo Java**: Đâm xuyên màn sương, làm chủ trận đồ.  
+- 🌿 **Phong Hoa JavaScript**: Nhẹ nhàng uyển chuyển, kết nối thiên cơ.  
+
+**🛠 Trận Kỳ & Pháp Khí (Công Cụ Hỗ Trợ):**  
+- ⚔ **Git - GitHub**: Bí pháp lưu trữ thần thông, ghi chép đạo hạnh.  
+- 🔥 **VS Code**: Thần phủ luyện thuật, giúp đạo hữu tinh thông mọi bí kíp.  
+- 📜 **Google Colab - Jupyter Notebook**: Trận pháp phân tích, khai mở thiên nhãn.  
+
+---
+
+## **📜 Thông Thiên Bí Cảnh - Hành Trình Tu Đạo**  
+
+💠 Bước đầu nhập môn, bần đạo tinh thông thuật toán cổ xưa, đi sâu vào **Lập Trình Hệ Thống**, **Giải Thuật**, và **Cấu Trúc Dữ Liệu**.  
+💠 Đến giai đoạn Kim Đan, bần đạo bắt đầu tìm hiểu **Phát Triển Web**, **Ứng Dụng Phân Tán** và các đại pháp **AI - Machine Learning**.  
+💠 Nay khi đã đến Nguyên Anh kỳ, bần đạo dấn thân vào **Hệ Thống Phần Mềm Quy Mô Lớn**, không ngừng tìm kiếm con đường lên **Đại Thừa**.  
+
+---
+
+## **🏆 Hành Trình Chứng Đạo - Linh Thạch Thành Tích**  
+💠 **Số lượt đạo hữu chiêm nghiệm bảo điển của bần đạo**:  
+![](https://komarev.com/ghpvc/?username=lyng148)  
+
+💠 **Thiên Cơ Trận Đồ - Thống Kê Luyện Đạo**  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lyng148&show_icons=true&hide_title=true)  
+![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lyng148&layout=compact)  
+
+---
+
+## **💬 Truyền Âm - Kết Nối Cùng Bần Đạo**  
+📩 Nếu đạo hữu hữu duyên, muốn luận đạo hoặc cùng nhau tinh luyện thuật pháp, xin đừng ngần ngại mà gửi truyền âm! **Cùng nhau tu hành, khai mở chân cơ!**  
+
+🌟 *Thiên đạo vô cùng, bần đạo không ngừng cố gắng, hy vọng một ngày có thể chứng đắc đại đạo!* 🚀✨
