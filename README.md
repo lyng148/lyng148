@@ -15,15 +15,10 @@ Bần đạo là **Linh Tiên Sinh**, một tu sĩ nơi cõi lập trình, ngày
 ## **🚀 Thần Binh Pháp Bảo - Công Pháp & Trận Pháp Tu Luyện**  
 
 **📖 Linh Văn Bảo Điển (Ngôn Ngữ Tu Luyện):**  
-- 📜 **Cổ thuật C - C++**: Gốc rễ tu hành, vững chắc như Thiên Địa Hồng Hoang.  
-- 🔥 **Hỏa Linh Python**: Biến hóa vạn trạng, như Lôi Đình Chân Giả.  
-- 🏹 **Kiếm Đạo Java**: Đâm xuyên màn sương, làm chủ trận đồ.  
-- 🌿 **Phong Hoa JavaScript**: Nhẹ nhàng uyển chuyển, kết nối thiên cơ.  
+-  **Cổ thuật C - C++**,  **Hỏa Linh Python**, **Kiếm Đạo Java**, **Phong Hoa JavaScript**
 
 **🛠 Trận Kỳ & Pháp Khí (Công Cụ Hỗ Trợ):**  
-- ⚔ **Git - GitHub**: Bí pháp lưu trữ thần thông, ghi chép đạo hạnh.  
-- 🔥 **VS Code**: Thần phủ luyện thuật, giúp đạo hữu tinh thông mọi bí kíp.  
-- 📜 **Google Colab - Jupyter Notebook**: Trận pháp phân tích, khai mở thiên nhãn.  
+- **Git - GitHub**, **VS Code**, **Google Colab - Jupyter Notebook**
 
 ---
 
